@@ -1,0 +1,19 @@
+{
+  "name": "tedvid",
+  "description": "TED style hero-video that goes sticky when you scroll your shit/bar. Applicable only for Youtube and Vimeo.",
+  "main": "gulpfile.js",
+  "authors": [
+    "Zafree"
+  ],
+  "license": "MIT",
+  "homepage": "https://zafree.github.io/tedvid",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "waypoints": "^4.0.0"
+  }
+}
