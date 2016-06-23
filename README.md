@@ -75,3 +75,7 @@ TEDvid should (in theory) work in all relevant browsers (ie9+). If not, create a
 ### Who
 
 Written by <a href="http://zafree.github.io/">Zafree</a>, made better by you.
+
+### Contribute
+
+[@obiPlabon](https://github.com/obiplabon)
