@@ -36,7 +36,7 @@ I used Bootstrap Grid here. You can use any other. If you need help regarding th
 <head>
     ...
     <!--load if vimeo  -->
-    <script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>
+    <script src="https://f.vimeocdn.com/js/froogaloop2.min.js"></script>
     <!--load if youtube  -->
     <script src="https://www.youtube.com/iframe_api"></script>
 </head>
