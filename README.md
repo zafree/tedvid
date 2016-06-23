@@ -50,7 +50,7 @@ I used Bootstrap Grid here. You can use any other. If you need help regarding th
   ```
   or
   ```html
-   <iframe class="embed-responsive-item" data-provider="youtube" src="https://www.youtube.com/embed/7d16CpWp-ok?enablejsapi=1&html5=1&showinfo=0&rel=0&autohide=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+   <iframe data-provider="youtube" class="embed-responsive-item" src="https://www.youtube.com/embed/7d16CpWp-ok?enablejsapi=1&html5=1&showinfo=0&rel=0&autohide=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   ```
 
 5. Set your poster image `src` (Image Ration 16:9 for better serve)
