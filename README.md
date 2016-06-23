@@ -22,6 +22,7 @@ I used Bootstrap Grid here. You can use any other. If you need help regarding th
    <link rel="stylesheet" href="css/tedvid.min.css">
   ```
 
+
 2. Link JS files to your site or application (add `<script>` to bottom of page)
 
 ```html
@@ -29,6 +30,7 @@ I used Bootstrap Grid here. You can use any other. If you need help regarding th
  <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/3.1.1/jquery.waypoints.min.js"></script>
  <script src="js/tedvid.js"></script>
 ```
+
 
 3. Load Vimeo/Youtube API `<script>` to bottom of `<head>`
 
@@ -49,11 +51,19 @@ I used Bootstrap Grid here. You can use any other. If you need help regarding th
   <iframe data-provider="vimeo" class="embed-responsive-item" src="https://player.vimeo.com/video/74605993?api=1&player_id=vimeo" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   ```
 
+or
+
+  ```html
+  <iframe class="embed-responsive-item" data-provider="youtube" src="https://www.youtube.com/embed/7d16CpWp-ok?enablejsapi=1&html5=1&showinfo=0&rel=0&autohide=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  ```
+
+
 5. Set your poster image `src` (Image Ration 16:9 for better serve)
 
   ```html
   <img id="Video__poster" class="Video__poster" src="imgs/poster.jpg" alt="..." />
   ```
+
 
 6. And finally you can edit the content as you want. Wow.
 
